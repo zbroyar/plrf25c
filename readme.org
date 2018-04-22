@@ -8,7 +8,7 @@
 
 #+CAPTION: Огляд приладу
 #+NAME:   fig:overview
-[[file:./overview.pn][Огляд приладу]]
+[[file:./overview.png][Огляд приладу]]
 
 a) Резинове покриття
 b) Кнопка
